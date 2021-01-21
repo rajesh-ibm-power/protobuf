@@ -12,5 +12,5 @@ install:
 script:
     - mkdir build
     - cd build
-    - make
+    - make ./
     - make tests
